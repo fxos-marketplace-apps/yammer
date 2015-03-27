@@ -1,0 +1,12 @@
+{
+  "name": "Yammer",
+  "description": "Yammer corporate social network",
+  "developer": {
+    "name": "Yammer Inc.",
+    "url": "https://www.yammer.com/"
+  },
+  "launch_path": "https://mozilla.okta.com/app/yammer/sso/saml",
+  "icons": {
+    "128": "/yammer/img/icon.png"
+  }
+}
