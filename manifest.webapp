@@ -7,6 +7,6 @@
   },
   "launch_path": "https://mozilla.okta.com/app/yammer/sso/saml",
   "icons": {
-    "128": "/yammer/img/icon.png"
+    "128": "/img/icon.png"
   }
 }
